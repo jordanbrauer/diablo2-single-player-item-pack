@@ -7,7 +7,7 @@ Here are the original text files... I am not sure if the instructions are still 
 
 > ## How to Use Kingpint'z Item Pack:
 Step 1: You have to download "Hero Editor (HE) 0.95"
-Download it from Trusted Sites like www.ladderhall.com
+Download it from Trusted Sites like (used to be ladderhall)
 
 >Step 2: Install the HE
 
